@@ -76,7 +76,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "npm run build",
+    "homepage" : "http://jishanali123.github.io/react-star-wars"
   },
   "eslintConfig": {
     "extends": "react-app"
